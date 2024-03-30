@@ -1,0 +1,1 @@
+This Simple but beautifully looking game is made using tkinter and customtkinter for the design. It uses a wide library of words which are randomly selected. Using the buttons on the right you have to guess the word which is hidden below. Every wrong guess is a step closer to losing the game.
